@@ -5,4 +5,4 @@ This is an ESP32 Pico D4 project with an accelerometer and 0.69" dled display po
 
 The bare PCB was provided by JLCPCB and most of the parts by LCSC.
 
-![top_side](https://user-images.githubusercontent.com/4991664/52291416-a9859980-2948-11e9-858f-9d1c7c2d482f.jpg)
+![top_side](https://user-images.githubusercontent.com/4991664/52292089-4c8ae300-294a-11e9-8096-ea8b10b4526b.jpg)
