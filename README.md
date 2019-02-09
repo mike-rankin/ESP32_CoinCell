@@ -3,11 +3,17 @@
 This is an ESP32 Pico D4 project with an accelerometer and 0.69" dled display powered by a rechargable LIR2450 coin cell. I was not made for any specific purpose and was a design challenge to try and made it as small as possible. It can be powered off of a battery or USB cable. If a battery is inserted and USB cable is plugged in it will charge the battery and power the board. The design files and parts list is provided if you would like to assemble your own. I can assemble and sell them in small quantities but the price would be very expensove. If you can come up with a specific use for this hardware then just let me know at @mikerankin or by email at 0miker0@gmail.com
 
 Main components used in this desgin are:
+
 -ESP32 Pico D4 (wifi/bluetooth processor)
+
 -SE5218ALG-LF (500mA LDO power supply)
+
 -SL4054ST25P (LiPo battery charger)
+
 -LIS3DHTR (accelerometer)
+
 -CP2102N (USB interface chip)
+
 -ER-OLED0.69-1W (96x16 oled dsiplay)
 
 The full parts list and schematic is in the PCB directory
