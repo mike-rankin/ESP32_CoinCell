@@ -5,9 +5,7 @@ This is an ESP32 Pico D4 project with an accelerometer and 0.69" dled display po
 Main components used in this desgin are:
 
 -ESP32 Pico D4 (wifi/bluetooth processor)
-
 -SE5218ALG-LF (500mA LDO power supply)
-
 -SL4054ST25P (LiPo battery charger)
 
 -LIS3DHTR (accelerometer)
