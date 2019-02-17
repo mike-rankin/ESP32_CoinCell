@@ -54,8 +54,8 @@ static const unsigned char PROGMEM logo_bmp[] =
 
 Adafruit_SSD1306 display(96, 16, &Wire, 26);
 
-const char* ssid       = "Turd";
-const char* password   = "catinthehat";
+const char* ssid       = "SSID";
+const char* password   = "PASSWORD";
 
 const char* ntpServer = "pool.ntp.org";
 const long  gmtOffset_sec = -14400;
