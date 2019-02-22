@@ -2,6 +2,8 @@
 
 Video of it in action is at: https://youtu.be/QvrdFFZR3Nw
 
+https://www.tindie.com/products/miker/esp32-coincell/
+
 This is an ESP32 Pico D4 project with an accelerometer and 0.69" oled display powered by a rechargeable LIR2450 coin cell. I was not made for any specific purpose and was a design challenge to try and made it as small as possible. It can be powered off of a battery or USB cable. If a battery is inserted and USB cable is plugged in it will charge the battery and power the board. Current consumption is around 0.45mA when sleeping but up to 85mA running. Runtime testing is still in the works but battery life is only 5 minutes when the display is on and constantly connected to wifi. Connecting to wifi and turning on the display every 10 minutes appears to last 10 hours or so. The design files and parts list is provided if you would like to assemble your own. If you can come up with a specific use for this hardware or have any questions then just let me know at @mikerankin or by email at 0miker0@gmail.com
 
 Main components used in this desgin are:
