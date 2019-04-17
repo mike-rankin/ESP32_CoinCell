@@ -26,4 +26,4 @@ The full parts list and schematic is in the PCB directory
 
 The bare PCB was provided by JLCPCB and most of the parts by LCSC.
 
-
+![Rev4](https://user-images.githubusercontent.com/4991664/56325424-85181b80-6148-11e9-81cc-3ab20f2d0517.jpg)
