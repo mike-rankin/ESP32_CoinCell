@@ -1,6 +1,8 @@
 /*
 The ESP32 Coin Cell Board uses Tools/Board/ESP32 Dev Module
 Simple Deep Sleep with Timer Wake Up Displaying Time every 10 minutes
+
+Using the Arduino IDE choose Tools/Board: ESP32 Dev Module
 =====================================
 
 This code is under Public Domain License.

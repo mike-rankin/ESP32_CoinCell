@@ -2,6 +2,10 @@
  Thanks to Adafruit for the great oled display library. It's the best one for a 96x16 type
  Install the GFX, SSD1306 and LIS3DH libraries from the IDE
  Install the Adafruit Sensor Library from: https://github.com/adafruit/Adafruit_Sensor
+ 
+ Using the Arduino IDE choose Tools/Board: ESP32 Dev Module
+ On Rev1 hardware line 85 = lis.begin(0x18))
+ On Rev4 hardware lis.begin(0x19))
  *********************************************************************/
 
 
